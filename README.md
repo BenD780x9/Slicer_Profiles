@@ -2,7 +2,7 @@
 
 This is a copy of my SuperSlicer & Cura profiles.
 
-By default your profiles will be stored in:
+By default SuperSlicer profiles will be stored in:
 
 Windows:
   `C:\Users<Windows-user-name>\AppData\Roaming\SuperSlicer`
